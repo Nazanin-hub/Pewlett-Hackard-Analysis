@@ -7,6 +7,7 @@ Pewlett Hackard is a large company that is looking toward the future of baby boo
 ## Resources
 
 Data Source: departments.csv, dept_manager.csv, dept_emp.csv, employees.csv, salaries.csv, titles.csv
+
 Software: PostgreSQL 11.9, pgAdmin 4
 
 ## Results
