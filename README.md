@@ -14,9 +14,9 @@ Software: PostgreSQL 11.9, pgAdmin 4
 
 ### The Number of Retiring Employees by Title
 
- The below table shows the number of retirement-age employees who were born between January 1, 1952 and December 31, 1955 by most recent job title.
+ The below table shows the number of retirement-age employees who were born between January 1, 1952 and December 31, 1955 by most recent job title. The following results can be drived from the table:
 
- - 90386 employees will be retired soon.
+ - 90,386 employees will be retired soon.
  - Senior enginners and senior staff positions need to be filled in the near future because 63.8% of the retirement-age employees belongs to these positions.
  - Just 2% of retirement-age employees are manager.
  
