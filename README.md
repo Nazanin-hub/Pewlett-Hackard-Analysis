@@ -19,7 +19,8 @@ Software: PostgreSQL 11.9, pgAdmin 4
  - 90386 employees will be retired soon.
  - Senior enginners and senior staff positions need to be filled in the near future because 63.8% of the retirement-age employees belongs to these positions.
  - Just 2% of retirement-age employees are manager.
- 
+![] (https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_titles.png)
+
 ### The Employees Eligible for the Mentorship Program
 
 The below table shows the number of current employees who are eligible for mentorship program and they were born between January 1, 1965 and December 31, 1965.
