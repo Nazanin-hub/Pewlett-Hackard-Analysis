@@ -24,7 +24,11 @@ Software: PostgreSQL 11.9, pgAdmin 4
 
 ### The Employees Eligible for the Mentorship Program
 
-The below table shows the number of current employees who are eligible for mentorship program and they were born between January 1, 1965 and December 31, 1965.
+The below table shows the number of current employees who are eligible for mentorship program and they were born between January 1, 1965 and December 31, 1965. The following results can be derived from the table:
+
+ - 1549 employess are eligible for mentorship program.
+ - The most positions that are eligible for mentorship program are: Senior staff,staff,engineer and senior engineer.
+ - 
 
 ![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/mentorship_eligibilty.png)
 
