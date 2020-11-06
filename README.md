@@ -26,6 +26,7 @@ Software: PostgreSQL 11.9, pgAdmin 4
 
 The below table shows the number of current employees who are eligible for mentorship program and they were born between January 1, 1965 and December 31, 1965.
 
+![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/mentorship_eligibilty.png)
 
 ## Summary
 
