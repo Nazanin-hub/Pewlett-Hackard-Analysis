@@ -18,7 +18,7 @@ Software: PostgreSQL 11.9, pgAdmin 4
 
  - 90,386 employees will be retired soon.
  - Senior enginners and senior staff positions need to be filled in the near future because 63.8% of the retirement-age employees belongs to these positions.
- - Just 2% of retirement-age employees are manager.
+ - Only 2 Managers will be retired soon.
  
 ![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_titles.png)
 
@@ -36,8 +36,8 @@ The below table shows the number of current employees who are eligible for mento
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
+   - 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There are 1,549 eligible mentors in the company.
+   - There are 1,549 eligible mentors in the company.
