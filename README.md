@@ -24,14 +24,13 @@ Software: PostgreSQL 11.9, pgAdmin 4
 
 ### The Employees Eligible for the Mentorship Program
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
-90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pawlett Hackard employees?
-
-There are 1,549 eligible mentors in the company. If we assume that all employees need mentors, it means that each mentor has about 53 mentees. So, the number of eligible mentors is not enough for the next generation of Pawlett Hackard employees.
-
-The following tables show the number of retirement-age employees who were born between January 1, 1952, and December 31, 1955, by most recent job departments and the number of eligible mentors per department. It shows that all departments are lacking mentors.
+ The below table shows the number of current employees who were born between January 1, 1965 and December 31, 1965 and are eligible to participate in a mentorship program. The following results can be derived from the table:
+ 
+ - 1,549 employees are eligible for mentorship program.
+ 
+ - Senior staff, staff, engineer and senior engineer are the most employees titles thar are qualified for mentorship program. 
+ 
+ - Just 
 
 ![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/mentorship_eligibilty.png)
 
