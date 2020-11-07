@@ -30,19 +30,18 @@ Software: PostgreSQL 11.9, pgAdmin 4
  
  - Senior staff, staff, engineer and senior engineer are the most employees titles thar are qualified for mentorship program. 
  
- - Just 
+ - Just 5% of technical leader employees are qualified for mentorship program.
 
 ![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/mentorship_eligibilty.png)
 
 ## Summary
 
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-   - 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
+90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pawlett Hackard employees?
 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+There are 1,549 eligible mentors in the company. If we assume that all employees need mentors, it means that each mentor has about 53 mentees. So, the number of eligible mentors is not enough for the next generation of Pawlett Hackard employees.
 
-   - There are 1,549 eligible mentors in the company. If we assume that all employees need mentor, it means that each mentor has about 53 mentees. So, the number of eligible mentors are not enugh for the next generation of Pewlett Hackard employees.
-   
-   - The following tables show the number of the number of retirement-age employees who were born between January 1, 1952 and December 31, 1955 by most recent job department and the number of eligible mentors per department. It shows that all departments are lacking mentors.
+The following tables show the number of retirement-age employees who were born between January 1, 1952, and December 31, 1955, by most recent job departments and the number of eligible mentors per department. It shows that all departments are lacking mentors.
    
