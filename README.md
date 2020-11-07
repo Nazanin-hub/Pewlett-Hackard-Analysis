@@ -18,7 +18,7 @@ Software: PostgreSQL 11.9, pgAdmin 4
 
  - 90,386 employees will be retired soon.
  - Senior engineers and senior staff positions need to be filled in the near future because 63.8% of the retirement-age employees belong to these positions.
- - Only 2 Managers will be retired soon.
+ - Only 2 managers will be retired soon.
  
 ![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_titles.png)
 
@@ -42,7 +42,7 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There are 1,549 eligible mentors in the company. If we assume that all employees need mentors, it means that each mentor has about 53 mentees. So, the number of eligible mentors is not enough for the next generation of Pewlett Hackard employees.
+There are 1,549 eligible mentors in the company. If we assume that all employees need mentors, it means that each mentor has about 53 mentees. So, the number of eligible mentors seems not enough for the next generation of Pewlett Hackard employees.
 
 The following table shows the number of retiring employees per department.
 
