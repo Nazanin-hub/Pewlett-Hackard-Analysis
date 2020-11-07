@@ -45,4 +45,4 @@ Are there enough qualified, retirement-ready employees in the departments to men
 There are 1,549 eligible mentors in the company. If we assume that all employees need mentors, it means that each mentor has about 53 mentees. So, the number of eligible mentors is not enough for the next generation of Pewlett Hackard employees.
 
 The following tables show the number of retirement-age employees by most recent job departments and the number of eligible mentors per department. It shows that all departments are lacking mentors.
-   
+![](
