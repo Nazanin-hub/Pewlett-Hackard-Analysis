@@ -28,7 +28,7 @@ The below table shows the number of current employees who are eligible for mento
 
  - 1549 employess are eligible for mentorship program.
  - The most positions that are eligible for mentorship program are: Senior staff,staff,engineer and senior engineer.
- - 
+ - Just 5% of technical leader employees are qualified for mentorship program.
 
 ![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/mentorship_eligibilty.png)
 
