@@ -49,4 +49,5 @@ The following table shows the number of retirement-age employees by most recent 
 ![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/retiring_department.png)
 
  The following table shows the number of eligible mentors per department. It shows that all departments are lacking mentors.
- ![](
+ 
+ ![](https://github.com/Nazanin-hub/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Eligible%20mentors%20per%20department.png)
