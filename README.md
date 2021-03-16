@@ -14,7 +14,7 @@ Software: PostgreSQL 11.9, pgAdmin 4
 
 ### The Number of Retiring Employees by Title
 
- The below table shows the number of retirement-age employees who were born between January 1, 1952, and December 31, 1955, by most recent job titles. The following results can be derived from the table:
+ The table below shows the number of retirement-age employees who were born between January 1, 1952, and December 31, 1955, by most recent job titles. The following results can be derived from the table:
 
  - 90,386 employees will be retired soon.
  - Senior engineers and senior staff positions need to be filled in the near future because 63.8% of the retirement-age employees belong to these positions.
@@ -24,7 +24,7 @@ Software: PostgreSQL 11.9, pgAdmin 4
 
 ### The Employees Eligible for the Mentorship Program
 
-The below table shows the number of current employees who were born between January 1, 1965, and December 31, 1965, and are eligible to participate in a mentorship program. The following results can be derived from the table:
+The table below shows the number of current employees who were born between January 1, 1965, and December 31, 1965, and are eligible to participate in a mentorship program. The following results can be derived from the table:
  
  - 1,549 employees are eligible for a mentorship program.
  
